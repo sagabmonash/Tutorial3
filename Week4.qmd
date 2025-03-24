@@ -4,6 +4,10 @@ Author: "Bagas Ari Wibawanto"
 Todays Date
 format: html
 editor: visual
+execute:
+    echo: false
+    warning: false
+    message: false
 ---
 
 ## 
